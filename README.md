@@ -4,7 +4,7 @@
 
 Данный бот может использоваться для получения текущей погоды по локациии
 или текстовому названию города. Используется API сайта
-(OpenWeatherMap.org)[https://openweathermap.org/]
+[OpenWeatherMap.org](https://openweathermap.org/)
 
 Проект создан в учебных целях.
 
